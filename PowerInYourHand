@@ -4,7 +4,7 @@ print ("Hello Users :-D!")
 		game.StarterGui:SetCore("SendNotification", {
 		Title = "Trxez&Smify"; -- 
 		Text = "Thank you for Using LightWare.Technology!"; -- 
-		Icon = "rbxassetid://5676350013"; -- t
+		Icon = "rbxassetid://1297630667"; -- t
 		Duration = 10; -- 
 		})
 
